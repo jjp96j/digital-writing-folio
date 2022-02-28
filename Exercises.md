@@ -1,4 +1,4 @@
-# Exercises 
+# Exercises
 
 ## Week 1 
 
